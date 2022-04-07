@@ -8,9 +8,9 @@ def add_one(number):
 
 def dividebytwo(number):
     """Divides entered number by 2"""
-    return number/2
+    return number / 2
 
 
 def helloname(name):
     """Says hello + entered name"""
-    return "Hello"+name
+    return "Hello" + name
